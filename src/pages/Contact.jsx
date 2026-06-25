@@ -22,7 +22,7 @@ export default function Contact() {
     }
     const txt = `Hi! I'm ${f.fname} ${f.lname}. Goal: ${f.goal || "Not specified"}. Phone: ${f.phone}. ${f.msg}`;
     window.open(
-      `https://wa.me/919876543210?text=${encodeURIComponent(txt)}`,
+      `https://wa.me/917893138625?text=${encodeURIComponent(txt)}`,
       "_blank",
     );
     setToast(true);
