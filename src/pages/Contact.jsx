@@ -115,7 +115,7 @@ export default function Contact() {
                     "Address",
                     "Rudra Gym & Fitness Unisex — Bollikunta X Road, Beside Vaagdevi College of Engineering, Warangal-Khammam Highway, Telangana, 506005",
                   ],
-                  ["📞", "Phone", "+91 98765 43210"],
+                  ["📞", "Phone", "+91 7893138625"],
                   ["✉️", "Email", "hello@rudragym.in"],
                   [
                     "⏰",
