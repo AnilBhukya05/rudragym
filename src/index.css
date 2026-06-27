@@ -281,3 +281,20 @@ label.flabel {
   /* Schedule table scroll */
   .table-scroll { overflow-x: auto; -webkit-overflow-scrolling: touch; }
 }
+
+
+
+/* ── FOUNDER CARD MOBILE ── */
+@media (max-width: 768px) {
+  .founder-inner {
+    grid-template-columns: 1fr !important;
+  }
+  .founder-inner > div:first-child {
+    border-right: none !important;
+    border-bottom: 1px solid rgba(255,255,255,0.06);
+    padding: 32px 24px !important;
+  }
+  .founder-inner > div:last-child {
+    padding: 28px 24px !important;
+  }
+}
